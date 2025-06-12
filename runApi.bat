@@ -1,0 +1,1 @@
+c:\jason\app\jdk-17.0.10\bin\java -cp C:\jason\generic_workspace_new\clean_architeture\taxone-mapper-clean-architerure-api\src\main\resources; -jar target\taxone-mapper-clean-architerure-api.jar > taxone-mapper-clean-architerure-api.txt
